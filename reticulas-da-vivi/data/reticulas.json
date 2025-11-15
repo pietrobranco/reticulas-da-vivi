@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Pontinho",
+    "codigo": "0;p;0;s;1;P;u;000000FF;o;0.15;0l;3;0v;3;0o;1",
+    "descricao": "Retícula de pontinhos."
+  },
+  {
+    "id": 2,
+    "nome": "Cruz",
+    "codigo": "0;p;0;s;1;P;u;000000FF;o;0.20;0l;4;0v;4;S;1",
+    "descricao": "Retícula com formato de cruz."
+  },
+  {
+    "id": 3,
+    "nome": "Quadradinho",
+    "codigo": "0;p;0;s;1;Q;u;000000FF;o;0.20;0l;4;0v;4",
+    "descricao": "Retícula quadrada."
+  },
+  {
+    "id": 4,
+    "nome": "Linha Vertical",
+    "codigo": "0;p;0;s;1;V;u;000000FF;o;0.20;0l;1;0v;5",
+    "descricao": "Retícula em linha vertical."
+  },
+  {
+    "id": 5,
+    "nome": "Linha Horizontal",
+    "codigo": "0;p;0;s;1;H;u;000000FF;o;0.20;0l;5;0v;1",
+    "descricao": "Retícula linha horizontal."
+  }
+]
